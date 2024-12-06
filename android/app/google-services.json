@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229625332102",
+    "project_id": "super-car-f8dce",
+    "storage_bucket": "super-car-f8dce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229625332102:android:d09f83d4103d2e16ab6c07",
+        "android_client_info": {
+          "package_name": "com.example.super_car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZtVWhXroHKbKhPZ4aQrYMjR9RI88r8dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
